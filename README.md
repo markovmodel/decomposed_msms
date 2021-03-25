@@ -1,7 +1,8 @@
 # Independent Markov decomposition
 This repository contains code to reproduce numerical simulations and visualizations of
 Tim Hempel, Mauricio J. del Razo, Christopher T. Lee, Bryn C. Taylor, Rommie E. Amaro, and Frank Noé:
-*Independent Markov Decomposition: Towards modeling kinetics of biomolecular complexes*
+*Independent Markov Decomposition: Towards modeling kinetics of biomolecular complexes*,
+https://www.biorxiv.org/content/10.1101/2021.03.24.436806v1
 
 
 ## Overview
