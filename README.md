@@ -16,7 +16,7 @@ Implementation of coupled ion channel dimer and numerical simulation of the dyna
 Reproduces Fig. 4 c and d in the manuscript.
 
 ### Fig5a-syt-decomposition.ipynb
-Dependency graph estimation and visualization for MD data of Synaptotagmin-C2A domain.
+Dependency graph estimation and visualization for MD data of Synaptotagmin-C2A domain. Reproduces Fig. 5a in the manuscript.
 
 ### FigS1-approximation-quality-2-2state-systems.ipynb
 Assessment of limited sampling effects using a simple toy model. Reproduces Fig. S1 in the supplemental material.
