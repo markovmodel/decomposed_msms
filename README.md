@@ -15,5 +15,8 @@ Implementation of Hodgkin-Huxley potassium ion channel model and numerical simul
 Implementation of coupled ion channel dimer and numerical simulation of the dynamics at various coupling strenghts. 
 Reproduces Fig. 4 c and d in the manuscript.
 
+### Fig5a-syt-decomposition.ipynb
+Dependency graph estimation and visualization for MD data of Synaptotagmin-C2A domain.
+
 ### FigS1-approximation-quality-2-2state-systems.ipynb
 Assessment of limited sampling effects using a simple toy model. Reproduces Fig. S1 in the supplemental material.
