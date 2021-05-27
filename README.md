@@ -21,3 +21,6 @@ Dependency graph estimation and visualization for MD data of Synaptotagmin-C2A d
 
 ### FigS1-approximation-quality-2-2state-systems.ipynb
 Assessment of limited sampling effects using a simple toy model. Reproduces Fig. S1 in the supplemental material.
+
+### FigS3-counterexample-Chignolin.ipynb
+Counterexample to IMD with small peptide Chignolin (10 amino acids). Reproduces Fig. S3 in the supplemental material.
